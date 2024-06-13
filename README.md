@@ -7,13 +7,13 @@
 </head>
 <body>
     <header>
-        <h1>CodSoft Internship Tasks</h1>
+        <h1>CodeSoft Internship Tasks</h1>
     </header>
     <main>
-        <p>Welcome to the repository for CodSoft internship tasks. Here you will find all the projects and assignments completed during the internship program.</p>
+        <p>Welcome to the repository for CodeSoft internship tasks. Here you will find all the projects and assignments completed during the internship program.</p>
     </main>
     <footer>
-        <p>&copy; 2024 CodSoft Internship Program</p>
+        <p>&copy; 2024 CodeSoft Internship Program</p>
     </footer>
 </body>
 </html>
